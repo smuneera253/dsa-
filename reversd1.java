@@ -1,6 +1,6 @@
 
 class HelloWorld {
-    
+    //creat an string
     public static String str="muneera";
     //convert str into arr;
     public static char[] arr = str.toCharArray();
