@@ -15,7 +15,7 @@ class HelloWorld {
     }
     public static void ReverseSubString(int start , int end ,char[] arr)
     {
-        while (start <= end)
+        while (start < = end)
         {
             char num = arr [start];
             arr [start] = arr [end];
